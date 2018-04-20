@@ -1,3 +1,8 @@
+0.2.0 (2016-07-10)
+------------------
+* Fix: RViz uses Qt5 in kinetic
+* Contributors: Armin Hornung
+
 0.1.0 (2016-07-07)
 ------------------
 * Remove -ldefault_plugin from linker options, fixes `#19 <https://github.com/OctoMap/octomap_rviz_plugins/issues/19>`_
